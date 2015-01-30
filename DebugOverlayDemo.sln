@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DebugOverlayDemo", "DebugOverlayDemo\DebugOverlayDemo.csproj", "{57364FBD-8514-487D-809C-3E83260C3507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57364FBD-8514-487D-809C-3E83260C3507}.Debug|x86.ActiveCfg = Debug|x86
+		{57364FBD-8514-487D-809C-3E83260C3507}.Debug|x86.Build.0 = Debug|x86
+		{57364FBD-8514-487D-809C-3E83260C3507}.Release|x86.ActiveCfg = Release|x86
+		{57364FBD-8514-487D-809C-3E83260C3507}.Release|x86.Build.0 = Release|x86
+		{C9D2BBBB-36FA-45E4-A43C-D00010BE526C}.Debug|x86.ActiveCfg = Debug|x86
+		{C9D2BBBB-36FA-45E4-A43C-D00010BE526C}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
